@@ -1,0 +1,34 @@
+.cicon
+{
+	height: 64px;
+	width: 64px;
+}
+
+
+.navbar 
+{
+    background-color: transparent;
+    background: transparent;
+    border-style: none;
+}
+  
+.navbar li { color: #000 }
+
+#banner 
+{
+	font-size: 300%;
+	font-family: 'Lobster', cursive;
+	color: red;
+    margin-top: 10px;
+}
+
+body {
+    background: linear-gradient( #fdc7df,#e52f81 );
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
